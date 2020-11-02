@@ -1,4 +1,7 @@
-PowerVS ID,PowerVS Name,PowerVS Region,Number of Instances,Allocated Processors,Allocated Memory,TIER1 Usage,TIER3 Usage\n
+PowerVS ID,PowerVS Name,PowerVS Region,Number of Instances,Allocated Processors,Allocated Memory,TIER1 Usage,TIER3 Usage\nPowerVS ID,PowerVS Name,PowerVS Region,Number of Instances,Allocated Processors,Allocated Memory,TIER1 Usage,TIER3 Usage\n
+******,******,******,******,******,******,******,******
+Total Instances: ,Total Processors: ,Total Memory: ,Total TIER1: ,Total TIER3: ,******,******,******
+Total PowerVS in London: 0, Total PowerVS in Deutschland: 0, Total  PowerVS in Toronto: 0, Total PowerVS in Sydney: 0,******,******,******,******
 ******,******,******,******,******,******,******,******
 Total Instances: ,Total Processors: ,Total Memory: ,Total TIER1: ,Total TIER3: ,******,******,******
 Total PowerVS in London: 0, Total PowerVS in Deutschland: 0, Total  PowerVS in Toronto: 0, Total PowerVS in Sydney: 0,******,******,******,******
