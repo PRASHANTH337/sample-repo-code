@@ -6,7 +6,7 @@ git config --global user.name "prash"
 mv /powervs* .
 data=$(date '+%B%d')
 git add .
-git commit -m "$data"
+git commit -m "$data+1"
 git push origin master
 
 
