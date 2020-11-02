@@ -8,5 +8,6 @@ data=$(date '+%B%d')
 git add .
 git commit -m "$data+1"
 git push origin master
+git pull
 
 
