@@ -1,0 +1,1 @@
+0 1 * * * bash /sample-repo-code/collect.sh
