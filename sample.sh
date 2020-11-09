@@ -1,4 +1,5 @@
 #!/bin/bash
+git clone https://github.com/PRASHANTH337/sample-repo-code.git
 bash /sample-repo-code/collect.sh
 ls
 pwd 
