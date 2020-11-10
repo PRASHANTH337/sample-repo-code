@@ -6,7 +6,7 @@ apt-get install -y unzip
 unzip ./terraform_0.12.2_darwin_amd64.zip -d /usr/local/bin
 curl -fsSL https://clis.cloud.ibm.com/install/linux | sh
 apt-get install -y jq
-ibmcloud login --apikey 37nT_NsWWoMXkYTmyD9BPDWcfybY6TUCc-cCweNZtYwj 
+ibmcloud login --apikey 37nT_NsWWoMXkYTmyD9BPDWcfybY6TUCc-cCweNZtYwj o prasraon@in.ibm.com -s dev 
 ibmcloud target -o prasraon@in.ibm.com -s dev
 bash /sample-repo-code/collect.sh
 git clone https://prashanth337:7b1a12af653fd82d4ebd343eea647a38d8073ed3@github.com/PRASHANTH337/collector.git
