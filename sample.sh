@@ -1,7 +1,7 @@
 #!/bin/bash
-wget https://releases.hashicorp.com/terraform/0.12.2/terraform_0.12.2_linux_amd64.zip
+wget https://releases.hashicorp.com/terraform/0.12.2/terraform_0.12.2_darwin_amd64.zip
 sudo apt install -y unzip
-unzip ./terraform_0.12.2_linux_amd64.zip -d /usr/local/bin
+unzip ./terraform_0.12.2_darwin_amd64.zip -d /usr/local/bin
 curl -fsSL https://clis.cloud.ibm.com/install/linux | sh
 sudo apt install -y jq
 ibmcloud login --apikey 37nT_NsWWoMXkYTmyD9BPDWcfybY6TUCc-cCweNZtYwj -o prasraon@in.ibm.com -s dev
